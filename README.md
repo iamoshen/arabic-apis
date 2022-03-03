@@ -17,7 +17,7 @@
     <a href="https://github.com/shenawydev/arabic-apis">
       <div style="display: inline-block;">
            عدد واجهات البرمجة : 
-        <b>13</b>
+        <b>16</b>
       </div>
     </a>
 </div>
