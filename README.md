@@ -13,7 +13,7 @@
            عدد اقسام واجهات البرمجة : 
         <b>5</b>
       </div>
-    </a> <b>|</b>
+    </a>
     <a href="https://github.com/shenawydev/arabic-apis">
       <div style="display: inline-block;">
            عدد واجهات البرمجة : 
