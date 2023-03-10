@@ -17,7 +17,7 @@
     <a href="https://github.com/shenawydev/arabic-apis">
       <div style="display: inline-block;">
            عدد واجهات البرمجة : 
-        <b>16</b>
+        <b>18</b>
       </div>
     </a>
 </div>
@@ -92,6 +92,7 @@ Public Apis
 | [quran.com](https://quran.api-docs.io/v3/getting-started/introduction) | واجهة برمجية للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [sunnah.com](https://sunnah.api-docs.io/1.0/getting-started/introduction) | واجهة برمجية للمراجع العلمية في السنة النبوية | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [alquran.cloud](https://alquran.cloud/api) | واجهة برمجية للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+| [Adhkar](https://github.com/rn0x/Adhkar-json) | واجهة برمجية للأذكار | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 
 **[⬆ عودة للفهرس](#الفهرس)**
 
